@@ -1,3 +1,5 @@
+# Бинарный поиск
+
 def binary_search(list, item):
     # low and high keep track of which part of the list you'll search in.
     low = 0
